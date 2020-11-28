@@ -1,0 +1,9 @@
+Agregar chat_bd en la una nueva tabla creada en phpmyadmin con el mismo nombre.
+
+La base de datos empleada para el proyecto es el archivo 'chat_db.sql'.
+
+Este proyecto fue realizado por:
+	-Stefany Vega
+	-Alexander Munera
+...
+para el segundo proyecto de progra 2 de la UNET, 2019-1.
